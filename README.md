@@ -1,6 +1,6 @@
 Project 3: SQL Data Analysis
 
-Project Overview: <br>
+Project Overview:
 This project focuses on analyzing a sales dataset using SQL to extract meaningful business insights. SQL queries were used to filter, group, and summarize the data and evaluate sales performance across different products, payment methods, and referral sources.
 
 Objectives: <br>
@@ -37,5 +37,5 @@ Key Results: <br>
 - Compared payment methods based on sales activity <br>
 - Evaluated product performance from Instagram referrals <br>
 
-Project Learning: <br>
+Project Learning: 
 Through this project, I strengthened my SQL skills and learned how to use queries to transform raw sales data into meaningful business insights. This project also improved my understanding of aggregation, filtering, grouping, and sorting in data analysis.
